@@ -1,0 +1,28 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_8_blur">
+   <feGaussianBlur stdDeviation="0.2" in="SourceGraphic"/>
+  </filter>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0.9" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse filter="url(#svg_1_blur)" opacity="0.96" ry="60" rx="69" id="svg_1" cy="163" cx="259.5" stroke-width="3" stroke="#000" fill="#4D2425"/>
+  <ellipse rx="0.5" id="svg_2" cy="185" cx="495" stroke-width="3" stroke="#000" fill="#4D2425"/>
+  <ellipse id="svg_3" cy="172" cx="277.5" stroke-width="3" stroke="#000" fill="#4D2425"/>
+  <text opacity="0.83" stroke="#000" transform="matrix(5.629629611968994,0,0,2.871818831081842,-1138.8333288431168,-225.4335236782875) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_5" y="138.125041" x="237.769737" stroke-width="0" fill="#000000">J</text>
+  <text opacity="0.91" stroke="#000" transform="matrix(3.15591991511691,0,0,2.606648220646169,-644.9098084496761,-282.68548438178226) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_6" y="180.616366" x="286.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">G</text>
+  <path opacity="0.25" id="svg_7" d="m188.91784,206.39304l147.35716,0.05206l-4.78177,6.54049l-137.73716,-0.1562l-4.83824,-6.43635l0.00001,0zm1.01266,-87.00328l145.3881,-0.1562l4.21933,6.70954l-153.88308,0.05207l4.27565,-6.60541zm-14.34804,43.59617l173.97158,-0.1562c-0.07496,2.23652 -0.14992,4.47303 -0.22488,6.70955l-173.63418,-0.10413l-0.11252,-6.44922zm174.11559,0.6223c0,44.41876 -39.05272,80.55386 -87.0629,80.55386c-47.98943,0 -87.03488,-36.14164 -87.03488,-80.55386c0,-44.41243 39.05251,-80.54753 87.03488,-80.54753c48.01019,-0.00653 87.0629,36.1351 87.0629,80.54753zm-87.05606,-87.00328c-51.82022,0 -93.98941,39.02602 -93.98941,86.99674c0,47.97726 42.1692,87.00327 93.98941,87.00327c51.84843,0 94.01059,-39.02601 94.01059,-87.00327c0,-47.97072 -42.16215,-86.99674 -94.01059,-86.99674zm26.37607,87.00328c0,47.46514 -13.8954,80.55386 -26.37607,80.55386c-12.46655,0 -26.36173,-33.08872 -26.36173,-80.55386c0,-47.4782 13.88833,-80.54753 26.36173,-80.54753c12.47363,-0.00653 26.37607,33.06933 26.37607,80.54753zm-26.37607,-87.00328c-21.64821,0 -33.33037,44.82703 -33.33037,86.99674c0,42.18259 11.68216,87.00327 33.33037,87.00327c21.64843,0 33.35176,-44.8272 33.35176,-87.00327c-0.00706,-42.16971 -11.70333,-86.99674 -33.35176,-86.99674zm61.77262,87.00328c0,44.41876 -27.72066,80.55386 -61.77262,80.55386c-34.04488,0 -61.75145,-36.14164 -61.75145,-80.55386c0,-44.41243 27.70657,-80.54753 61.75145,-80.54753c34.05196,-0.00653 61.77262,36.1351 61.77262,80.54753zm-61.77262,-87.00328c-37.88294,0 -68.72008,39.02602 -68.72008,86.99674c0,47.97726 30.83714,87.00327 68.72008,87.00327c37.89705,0 68.72735,-38.02601 68.72735,-86.00327c0,-47.97072 -30.8303,-87.99674 -68.72735,-87.99674z" fill-opacity="null" stroke-opacity="null" stroke-width="3" stroke="#000" fill="#4D2425"/>
+  <text filter="url(#svg_8_blur)" stroke="#000" transform="matrix(1.1716349124908447,0,0,0.90848218062863,-61.61425178870559,33.06545645201471) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_8" y="239.604422" x="202.998541" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Johan Garnica</text>
+ </g>
+</svg>
